@@ -1,6 +1,6 @@
 City Quest
 
-Visit brianfang1.github.io/City_Quest to play this game!
+Visit https://brianfang1.github.io/City_Quest to play this game!
 
 Gameplay:
 This game requires 1 player. Use the arrow keys to move your character. 
